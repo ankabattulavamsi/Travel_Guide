@@ -1,0 +1,35 @@
+.background {
+  background-color: #eef4f7;
+  background-size: cover;
+}
+
+.guide {
+  display: flex;
+  justify-content: center;
+}
+
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.heading {
+  color: #334155;
+  font-size: 34px;
+  font-family: 'Roboto';
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+.view {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+}

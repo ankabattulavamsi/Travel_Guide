@@ -1,0 +1,21 @@
+.list-items {
+  list-style-type: none;
+  width: 40%;
+  margin-left: 80px;
+}
+.logos {
+  width: 530px;
+}
+
+.head {
+  color: #475569;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.desc {
+  width: 460px;
+  color: #64748b;
+  font-family: 'Roboto';
+}
